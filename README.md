@@ -62,5 +62,5 @@ Open an issue, let the bot comment, and record your first video walkthrough - it
 ---
 
 <div align="center">
-  <sub>Maintained by <a href="https://www.govideolink.com">Videolink</a> — async video for teams that move fast.</sub>
+  <sub>Maintained by <a href="https://govideolink.com?utm_source=github">Videolink</a> — async video for teams that move fast.</sub>
 </div>
