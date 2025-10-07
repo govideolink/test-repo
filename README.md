@@ -6,7 +6,7 @@
   <a href="https://github.com/apps/govideolink-com/installations/new">
     <img src="https://img.shields.io/badge/Install%20on-GitHub%20Marketplace-24292e?logo=github&style=for-the-badge" />
   </a>
-  <a href="https://www.govideolink.com">
+  <a href="https://govideolink.com?utm_source=github">
     <img src="https://img.shields.io/badge/Visit-Govideolink.com-blue?style=for-the-badge" />
   </a>
 </div>
