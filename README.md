@@ -3,7 +3,7 @@
   <p><b>Show bugs. Don’t just describe them.</b><br>
   Explain issues and pull requests with short async videos - directly inside GitHub.</p>
 
-  <a href="https://github.com/apps/govideolink-com/installations/new">
+  <a href="https://github.com/apps/govideolink-com">
     <img src="https://img.shields.io/badge/Install%20on-GitHub%20Marketplace-24292e?logo=github&style=for-the-badge" />
   </a>
   <a href="https://govideolink.com?utm_source=github">
@@ -32,7 +32,7 @@ Perfect for:
 ## 🧩 How it works
 
 ### 1. Install integration  
-Go to → https://github.com/apps/govideolink-com/installations/new
+Go to → https://github.com/apps/govideolink-com
 
 ### 2. Create or open an issue  
 Videolink bot will automatically comment with a record link.
@@ -57,7 +57,7 @@ Give contributors a faster, clearer way to report and discuss issues - with zero
 This demo repository is here so you can **test the integration in real GitHub context**.  
 Open an issue, let the bot comment, and record your first video walkthrough - it only takes 30 seconds.
 
-👉 [**Install Videolink on GitHub Marketplace**](https://github.com/apps/govideolink-com/installations/new)
+👉 [**Install Videolink on GitHub Marketplace**](https://github.com/apps/govideolink-com)
 
 ---
 
