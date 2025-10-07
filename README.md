@@ -17,8 +17,8 @@
 
 When someone reports an issue, **Videolink bot** automatically suggests recording a short screen + webcam video to demonstrate the problem or explain context.
 
-Free for open-source projects.
-
+**Free for open-source projects.
+**
 Once the video is recorded, a **comment with a secure link** appears in the issue thread so everyone can **watch it instantly** - no sign-in required.
 
 Perfect for:
